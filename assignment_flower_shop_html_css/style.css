@@ -105,3 +105,31 @@
     height: 88px;
   }
   /*==============  end flower section ============== */
+
+
+
+  /*============== start hot deal section ==============*/
+.main-container {
+    height: 620px;
+    background: rgba(229, 84, 115, 0.05);
+    border-radius: 8px;
+  }
+  .hotdeal-container {
+    display: flex;
+    align-items: center;
+    padding: 30px 200px;
+  }
+  .hotdeal-pragraph {
+    margin-top: 24px;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.6);
+    margin-bottom: 24px;
+  }
+  .hotdeal-center {
+    text-align: center;
+  }
+  .c-red {
+    color: #e55473;
+  }
+  /*============== end hot deal section ==============*/
+  
