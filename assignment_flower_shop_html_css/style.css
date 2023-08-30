@@ -131,5 +131,67 @@
   .c-red {
     color: #e55473;
   }
-  /*============== end hot deal section ==============*/
+  
+
+
+
+  /*============== Latest product section ==============*/
+.product-container {
+    margin-top: 50px;
+    text-align: center;
+    padding: 40px 200px;
+  }
+  .cart-container {
+    display: flex;
+    gap: 20px;
+  }
+  .product-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+  }
+  .product-paragraph {
+    margin-top: 10px;
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+  }
+  .cart {
+    margin-top: 30px;
+    width: 300px;
+    padding: 30px;
+    background: rgba(250, 244, 247, 0.15);
+    box-shadow: 10px 10px 10px rgb(233, 213, 213);
+    border-radius: 20px;
+  }
+  .cart-img {
+    width: 300px;
+    height: 300px;
+  }
+  .cart-title {
+    font-size: 18px;
+    font-weight: 800;
+  }
+  .star-icone {
+    margin-top: 10px;
+    color: gold;
+    margin-bottom: 10px;
+  }
+  .price {
+    margin-bottom: 20px;
+    color: #e55473;
+    font-weight: 900;
+  }
+  .cart-btn {
+    padding: 10px 10px;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    background-color: #e55473;
+  }
+  .cart-pargraph {
+    margin-top: 10px;
+    color: rgba(39, 39, 39, 0.6);
+  }
   
